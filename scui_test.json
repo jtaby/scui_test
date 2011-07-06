@@ -1,0 +1,17 @@
+{
+  "name": "scui_test",
+  "version": "0.0.1",
+  "description": "DESCRIPTION HERE",
+  "author": "YOUR NAME HERE",
+  "homepage": "URL",
+  "summary": null,
+  "bpm": "0.1.4",
+  "dependencies": {
+    "spade": ">= 0",
+    "sproutcore-ui": ">= 0"
+  },
+  "directories": {
+    "lib": "./lib",
+    "tests": "./tests"
+  }
+}
