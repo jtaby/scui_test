@@ -1,0 +1,30 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+
+  background: #f3f3f3;
+}
+
+#workspace {
+  width:320px;
+  height: 480px;
+  background:white;
+  margin:-160px 0 0 -240px;
+  top:50%;
+  left:50%;
+  position:absolute;
+}
+
+#workspace .collection {
+  font-family: Helvetica;
+  overflow:auto;
+  height: 100%;
+}
+
+#workspace .collection .item {
+  padding: 10px;
+  border-bottom: 1px #d8d8d8 solid;
+}
